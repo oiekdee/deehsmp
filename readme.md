@@ -1,25 +1,26 @@
-## **DEEH SMP**
+Hello, I would like to invite you to join my Minecraft server "Oiekdee survival server"/"Dee SMP"
 
-Oiekdee survival server (deehsmp) is Minecraft bedrock vanilla survival server aimed at creating a comfortable Survival environment that allows you to achieve achivement. You don't need to download any additional Addons to join this server. To join this server you must agree to the server rules.
+Oiekdee Survival Server is a Minecraft Bedrock vanilla survival server with no world resets, aimed at creating a comfortable survival environment where you can earn achievements. You don't need to download any additional addons to join. By joining this server you agree to the privacy statement and server rules.
 
 Rules:
-* Friendly
-* No toxic
-* No racist
-* Respect other players' privacy
-* Respect other players
-* Don't kill new player
-* Chill
-* Don't make any uncomfortable condition
+1. Friendly
+2. No toxic
+3. No racist
+4. Respect other players' privacy
+5. Don't kill new player
+6. Chill
+7. Respect other players
 
 Configuration:
-* Locator bar disabled
-* Show days played enabled
-* Show coordinates enabled
-* Difficulty normal
+1. Locator bar disabled
+2. Show days played enabled
+3. Show coordinates enabled
+4. Difficulty normal
 
 Complaints, feedback, discussions, and media sharing can be uploaded to the Discord server.
 
-Server IP Adress: 147.185.221.24  
+Server IP: 147.185.221.24  
 Server Port: 3014  
 Discord server: https://discord.gg/hwYxWKX5gK
+
+The server is online, you can join it 🥳
