@@ -1,16 +1,14 @@
-## **2026-03-14**
-* servers are born with names "Oiekdee survival server"
+### **2026-03-14**
+* Server created as "Oiekdee Survival Server"
 
-## **2026-03-16**
-* server are down
-* part of server devices are damaged
-* then i'm able to handle it
+### **2026-03-16**
+* Server went down; some server hardware was damaged and later repaired
 
-## **2026-03-18**
-* added startup chat feature
+### **2026-03-18**
+* Added startup chat feature
 
-## **2026-03-20**
-* the startup chat feature was removed
+### **2026-03-20**
+* Removed startup chat feature
 
-## **2026-03-26**
-* other term for this server "Deeh SMP" Oiek(dee)+h SMP
+### **2026-03-26**
+* Alternate server name added: "Deeh SMP" (Oiekdee → Deeh SMP)
